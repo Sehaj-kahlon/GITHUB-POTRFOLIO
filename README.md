@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning (AI & ML)
 
-- 👨‍💻 I'm interested in Competitive Programming currently **2 ⭐ on CodeChef**
+- 👨‍💻 I'm interested in Competitive Programming currently  **2 ⭐ on CodeChef**
 
 - 📫 My mail-id **sehajkahlon437@gmail.com**
 
