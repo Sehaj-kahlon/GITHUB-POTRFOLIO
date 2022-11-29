@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sehaj</h1>
-<h3 align="center">I'm currently persuing my second year Bachelor of Electrical Engineering from Punjab Engineering College, Chandigarh.</h3>
+<h3 align="center">I'm currently pursuing my second year Bachelor of Electrical Engineering from Punjab Engineering College, Chandigarh.</h3>
 
 - 🌱 I’m currently learning (AI & ML)
 
