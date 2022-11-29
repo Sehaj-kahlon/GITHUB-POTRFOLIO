@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm sehaj</h1>
 <h3 align="center">I'm currently persuing my second year Bachelor of Electrical Engineering from Punjab Engineering College, Chandigarh.</h3>
 
-- 🌱 I’m currently learning [AI & ML](AI & ML)
+- 🌱 I’m currently learning (AI & ML)
 
-- 👨‍💻 I'm interested in Competitive Programming currently **2⭐ on CodeChef**
+- 👨‍💻 I'm interested in Competitive Programming currently **2 ⭐ on CodeChef**
 
-- 📫 How to reach me **sehajkahlon437@gmail.com**
+- 📫 My mail-id **sehajkahlon437@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
