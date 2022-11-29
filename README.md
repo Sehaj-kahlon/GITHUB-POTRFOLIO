@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm sehaj</h1>
 <h3 align="center">I'm currently persuing my second year Bachelor of Electrical Engineering from Punjab Engineering College, Chandigarh.</h3>
 
+- 🌱 I’m currently learning [AI & ML](AI & ML)
+
+- 👨‍💻 I'm interested in Competitive Programming currently **2⭐ on CodeChef**
+
+- 📫 How to reach me **sehajkahlon437@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/sehaj_4026" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sehaj_4026" height="30" width="40" /></a>
@@ -14,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehaj-kahlon&show_icons=true&locale=en" alt="sehaj-kahlon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehaj-kahlon&" alt="sehaj-kahlon" /></p>
-
