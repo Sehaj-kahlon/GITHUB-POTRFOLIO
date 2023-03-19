@@ -3,7 +3,7 @@
 
 - 🌱 Learning AI & ML
 
-- 👨‍💻 I'm interested in Competitive Programming **2⭐ on CodeChef**
+- 👨‍💻 I'm interested in Competitive Programming 2 ⭐ on CodeChef
 
 - 📫 How to reach me **sehajkahlon437@gmail.com**
 
