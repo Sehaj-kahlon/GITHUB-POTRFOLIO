@@ -20,5 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sehaj-kahlon&theme=react&hide_border=false" alt="sehaj-kahlon" /></br></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehaj-kahlon&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sehaj-kahlon" /></br></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sehaj-kahlon&theme=react&hide_border=false&langs_count=8" alt="sehaj-kahlon" /></br></p>
