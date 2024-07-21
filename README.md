@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sehaj</h1>
-<h3 align="center">I'm a pre-final year Bachelor of Technology student from Punjab Engineering College, Chandigarh.</h3>
+<h3 align="center">I'm a final year Bachelor of Technology student from Punjab Engineering College, Chandigarh.</h3>
 
 - 🌱 Learning AI & ML
 
