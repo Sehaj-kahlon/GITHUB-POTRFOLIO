@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sehaj</h1>
 <h3 align="center">I'm a final year Bachelor of Technology student from Punjab Engineering College, Chandigarh.</h3>
 
-- 🌱 Learning AI & ML
+- 💻 Former Software Development Engineer Intern @PhonePe
 
-- 👨‍💻 I'm interested in Competitive Programming **2⭐ on CodeChef**
+- 🌱 Learning AI & ML
 
 - 📫 How to reach me **sehajkahlon437@gmail.com**
 
