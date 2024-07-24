@@ -3,7 +3,7 @@
 
 - 💻 Former Software Development Engineer Intern @PhonePe
 
-- 🌱 Learning AI & ML
+- 🌱 Learning App Development 
 
 - 📫 How to reach me **sehajkahlon437@gmail.com**
 
